@@ -1,0 +1,68 @@
+{
+  "seamless_loading_screen.screen.loading_chunks": "Генерирование чанков",
+
+  "seamless_loading_screen.config.title": "Найстрояки Seamless Loading Screen",
+  "seamless_loading_screen.config.display": "Параметры отображения",
+  "seamless_loading_screen.config.display.description": "Параметры, относящиеся к способу отображения скриншотов во время загрузки экрана.",
+  "seamless_loading_screen.config.capturing": "Параметры захвата",
+  "seamless_loading_screen.config.capturing.description": "Параметры, относящиеся к способу создания скриншотов.",
+
+  "seamless_loading_screen.config.time": "Задержка ожидания загрузки чанка",
+  "seamless_loading_screen.config.time.description": "Количество времени в тиках (20 тиков = 1 секунда), в течение которого эффект затухания должен начаться, прежде чем начнет затухать, чтобы можно было загрузить фрагменты.",
+
+  "seamless_loading_screen.config.fade": "Продолжительность затухания",
+  "seamless_loading_screen.config.fade.description": "Количество времени в тиках (20 тиках = 1 секунда), которое должно занять затухание эффекта.",
+
+  "seamless_loading_screen.config.disableCamera": "Отключить перемещение камеры",
+  "seamless_loading_screen.config.disableCamera.description": "Следует ли отключать движение камеры во время действия эффекта затухания?",
+
+  "seamless_loading_screen.config.archiveScreenshots": "Архив скриншотов",
+  "seamless_loading_screen.config.archiveScreenshots.description": "Следует ли сохранять старые скриншоты для последующего использования?",
+
+  "seamless_loading_screen.config.updateWorldIcon": "Обновить значок мира",
+  "seamless_loading_screen.config.updateWorldIcon.description": "Должен ли значок мира обновляться, когда вы покидаете однопользовательский мир?",
+
+  "seamless_loading_screen.config.soundEffects": "Звуковые эффекты",
+  "seamless_loading_screen.config.soundEffect": "Звуковые эффекты",
+  "seamless_loading_screen.config.soundEffect.description": "Идентификатор звукового эффекта, который будет воспроизводиться при начале процесса затухания.",
+
+  "seamless_loading_screen.config.playSoundEffect": "Включить звуковой эффект",
+  "seamless_loading_screen.config.playSoundEffect.description": "Должен ли воспроизводиться звуковой эффект после начала процесса затухания?",
+
+  "seamless_loading_screen.config.soundPitch": "Высота звука",
+  "seamless_loading_screen.config.soundVolume": "Громкость звука",
+
+  "seamless_loading_screen.config.screenshotBlur": "Размытие экрана",
+  "seamless_loading_screen.config.screenshotBlurStrength": "Сила размытия фона",
+  "seamless_loading_screen.config.screenshotBlurStrength.description": "Насколько сильным должен быть эффект размытия? Более высокая степень размытия означает, что снимок экрана будет менее узнаваемым.",
+
+  "seamless_loading_screen.config.screenshotBlurQuality": "Качество размытия фона",
+  "seamless_loading_screen.config.screenshotBlurQuality.description": "Какого уровня качества должно быть размытие? Более низкое качество приводит к более узнаваемым узорам размытия, но повышает производительность.",
+
+  "seamless_loading_screen.config.enableScreenshotBlur": "Включить размытие фона",
+  "seamless_loading_screen.config.enableScreenshotBlur.description": "Должен ли снимок экрана быть размытым?",
+
+  "seamless_loading_screen.config.tint": "Оттенок скриншота",
+  "seamless_loading_screen.config.tintColor": "Оттенок цвета (RGB)",
+  "seamless_loading_screen.config.tintColor.description": "Каким цветом следует закрасить скриншот?",
+
+  "seamless_loading_screen.config.tintStrength": "Сила оттенка",
+  "seamless_loading_screen.config.tintStrength.description": "Насколько сильным должен быть эффект тонирования?",
+
+  "seamless_loading_screen.config.resolution": "Разрешение снимка экрана",
+  "seamless_loading_screen.config.resolution.description": "Встроенная совместимость с Optifine TAA, разрешение игры\nОбычный - поддерживает до сверхширокополосных мониторов формата 21:9.\n4K - Для мониторов с разрешением 4K\n8K - Для мониторов с разрешением 8K",
+  "seamless_loading_screen.config.resolution.native": "Нативный",
+  "seamless_loading_screen.config.resolution.normal": "Обычный",
+  "seamless_loading_screen.config.resolution.r4k": "4K",
+  "seamless_loading_screen.config.resolution.r8k": "8K",
+
+  "seamless_loading_screen.server.displayMode": "Бесшовный экран",
+  "seamless_loading_screen.server.displayMode.ENABLED": "Включенный",
+  "seamless_loading_screen.server.displayMode.FREEZE": "Настройка/ Замораживание",
+  "seamless_loading_screen.server.displayMode.DISABLED": "Отключенный",
+
+  "seamless_loading_screen.config.server_settings": "Настройки, зависящие от сервера",
+
+  "seamless_loading_screen.config.blacklistedAddresses": "Адреса серверов, занесенных в черный список",
+  "seamless_loading_screen.config.blacklistedAddresses.description": "Список адресов, которые будут отключены при подключении к серверу."
+}

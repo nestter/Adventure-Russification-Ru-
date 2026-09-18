@@ -1,0 +1,24 @@
+{
+  "advancements_tracker.advancementsScreen.criteria": "Условия:",
+  "advancements_tracker.advancementsScreen.experience": "%1$s опыт",
+  "advancements_tracker.advancementsScreen.noAdvancements": "Никаких достижений не обнаружено.\nМожет, вам стоит раздобыть немного дерева и построить верстак?",
+  "advancements_tracker.advancementsScreen.numCategories": "Категории: %1$s",
+  "advancements_tracker.advancementsScreen.numCompleted": "%1$s и %2$s завершены",
+  "advancements_tracker.advancementsScreen.rewards": "Награда:",
+  "advancements_tracker.advancementsScreen.showCompleted": "Завершено",
+  "advancements_tracker.advancementsScreen.showOnlyRewarded": "Только награды",
+  "advancements_tracker.advancementsScreen.title": "Описание Advancements Tracker ",
+  "advancements_tracker.advancementsWidget.hotkeyAdvancementOverview": "Нажмите %1$s тобы открыть описание.\n\n",
+  "advancements_tracker.advancementsWidget.hotkeyAdvancementTracker": "Нажмите %1$s чтобы показать/скрыть трекер.\n\n",
+  "advancements_tracker.advancementsWidget.noAdvancements": "Пока никаких достижений!\nНачать все сначала?\nМожет, вам стоит раздобыть немного дерева и построить верстак?\n\n",
+  "advancements_tracker.advancementsWidget.noTrackedAdvancements": "Никаких отслеживаемых достижений!\nПожалуйста, добавьте их в описание.\n\n",
+  "advancements_tracker.advancementsWidget.notAllVisible": "\u2026 %1$s и %2$s видимы \u2026",
+  "advancements_tracker.advancementsWidget.title": "Advancements Tracker",
+  "advancements_tracker.keys.category": "Advancements Tracker",
+  "advancements_tracker.keys.show_overview": "Показать описание",
+  "advancements_tracker.keys.show_widget": "Show Widget",
+  "advancements_tracker.sort.a_to_z": "A-Z",
+  "advancements_tracker.sort.normal": "Отключить",
+  "advancements_tracker.sort.z_to_a": "Z-A"
+
+}

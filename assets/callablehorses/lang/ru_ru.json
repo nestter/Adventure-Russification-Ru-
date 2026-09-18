@@ -1,0 +1,22 @@
+{
+    "key.callablehorses.category": "Callable Horses",
+    "key.sethorse.desc": "Выбрать ездовое животное",
+    "key.callhorse.desc": "Позвать ездовое животное",
+    "key.showstats.desc": "Показать статистику ездового животное",
+
+    "callablehorses.error.dim": "Ты не можешь позвать своё ездовое животное в этом измерении",
+    "callablehorses.error.riding": "Вы не можете ехать верхом, подзывая своё ездовое животное",
+    "callablehorses.error.nohorse": "В настоящее время у вас нет личного ездового животного",
+    "callablehorses.error.notriding": "Для этого вам нужно сесть на ездовое животное",
+    "callablehorses.error.alreadyowned": "У этого ездового животного уже есть хозяин",
+    "callablehorses.error.alreadypersonal": "Это уже ваше личное ездовое животное",
+    "callablehorses.error.area": "В этом районе вы не сможете назвать своё ездовое животное",
+    "callablehorses.error.range": "Ваше ездовое животное находится слишком далеко, чтобы услышать вас",
+    "callablehorses.error.setarea": "Вы не можете поставить своё ездовое животное в этом районе",
+    "callablehorses.error.nospace": "Здесь недостаточно места, чтобы подозвать своё ездовое животное",
+
+    "callablehorses.success": "Теперь это ваше личное ездовое животное",
+
+    "callablehorses.alert.death": "Ваше ездовое животное погибло",
+    "callablehorses.alert.offlinedeath": "Ваше ездовое животное погибло, пока вы были в оффлайн"
+}

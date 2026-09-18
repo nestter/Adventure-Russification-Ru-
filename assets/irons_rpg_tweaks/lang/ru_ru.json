@@ -1,0 +1,16 @@
+{
+  "item.irons_rpg_tweaks.identification_scroll": "Свиток расшифровки языка зачарований",
+  "item.irons_rpg_tweaks.identification_scroll.description": "Использовать поверх нерасшифрованного предмета в инвентаре.",
+
+  "ui.irons_rpg_tweaks.enchanting_table_error.disabled": "Enchanting Tables are disabled.",
+  "ui.irons_rpg_tweaks.enchanting_table_error.unenchanted": "This item is not enchanted.",
+  "ui.irons_rpg_tweaks.enchanting_table_error.identified": "This item is already identified.",
+  "ui.irons_rpg_tweaks.enchanting_table_success": "%s identified.",
+  "ui.irons_rpg_tweaks.xp_retrieve_error": "This xp catalyst does not belong to you.",
+  "ui.irons_rpg_tweaks.shift_tooltip": "[Shift+]",
+  "ui.irons_rpg_tweaks.item_broken": "%s broke!",
+  "ui.irons_rpg_tweaks.item_damaged": "%s took %d damage.",
+  "ui.irons_rpg_tweaks.item_damaged_critical": "%s took %d damage and is at critical durability!",
+
+  "entity.irons_rpg_tweaks.xp_catalyst": "Xp Catalyst"
+}

@@ -1,0 +1,30 @@
+{
+  "lunar.event.start": "Над горизонтом возвышается %s",
+  "lunar.event.rain": "Из-за непогоды %s скрылась за горизонтом",
+
+  "lunar.event.regular": "луна",
+  "lunar.event.blood_moon": "кровавая луна",
+  "lunar.event.miner_moon": "шахтёрская луна",
+  "lunar.event.crimson_moon": "багряная луна",
+  "lunar.event.white_moon": "белая луна",
+  "lunar.event.big_moon": "большая луна",
+  "lunar.event.tiny_moon": "малая луна",
+  "lunar.event.bad_omen_moon": "луна с дурным предзнаменованием",
+  "lunar.event.hero_moon": "луна героя",
+  "lunar.event.eclipse_moon": "кромешная тьма",
+
+  "text.autoconfig.lunar.option.general": "General",
+  "text.autoconfig.lunar.option.general.lunarEventChance": "Lunar Event Chance",
+  "text.autoconfig.lunar.option.events": "Events",
+  "text.autoconfig.lunar.option.events.bloodMoonWeight": "Blood Moon Weight",
+  "text.autoconfig.lunar.option.events.crimsonMoonWeight": "Crimson Moon Weight",
+  "text.autoconfig.lunar.option.events.minerMoonWeight": "Miner Moon Weight",
+  "text.autoconfig.lunar.option.events.whiteMoonWeight": "White Moon Weight",
+  "text.autoconfig.lunar.option.events.tinyMoonWeight": "Tiny Moon Weight",
+  "text.autoconfig.lunar.option.events.bigMoonWeight": "Big Moon Weight",
+  "text.autoconfig.lunar.option.events.badOmenMoonWeight": "Bad Omen Moon Weight",
+  "text.autoconfig.lunar.option.events.heroMoonWeight": "Hero Moon Weight",
+  "text.autoconfig.lunar.option.events.eclipseMoonWeight": "Eclipse Moon Weight",
+  "text.autoconfig.lunar.option.crimson": "Crimson",
+  "text.autoconfig.lunar.option.events.crimsonReplacements": "Crimson Replacements"
+}
